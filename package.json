@@ -1,0 +1,16 @@
+{
+  "name": "typescript-eslint-no-semi-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ertrzyiks/typescript-eslint-no-semi-repro.git",
+  "author": "ertrzyiks <mateusz.derks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
+    "eslint": "^7.9.0"
+  }
+}
