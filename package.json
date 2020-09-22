@@ -5,7 +5,12 @@
   "repository": "git@github.com:ertrzyiks/typescript-eslint-no-semi-repro.git",
   "author": "ertrzyiks <mateusz.derks@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "lint": "yarn eslint *.ts",
+    "prettier": "yarn prettier-standard  *.ts"
+  },
   "dependencies": {
+    "prettier-standard": "^16.4.1",
     "typescript": "^4.0.3"
   },
   "devDependencies": {

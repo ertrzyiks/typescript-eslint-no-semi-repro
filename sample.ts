@@ -1,2 +1,1 @@
-;(window.scrollY as unknown) = 123
-
+(window.scrollY as unknown) = 123
